@@ -95,9 +95,6 @@ Flask, FastAPI, uvicorn: For creating the backend API.
 
 To install these dependencies, run:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 
 ⚙️ How It Works
